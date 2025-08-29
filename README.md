@@ -17,4 +17,4 @@ I learn best by doing — experimenting with code, asking questions, and reflect
 - **Church Archive Tool**: A secure system to protect digital records
 
 ## ✨ Fun Fact  
-I brand myself as “ElCanDo” — because I believe in grit, growth, and getting things done.
+I brand myself as “ElCanDo”(manining "He Can Do") — because I believe in grit, growth, and getting things done.
