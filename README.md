@@ -2,7 +2,9 @@
 Backend developer in training | Kinesthetic-INFP learner | Building tools for family & community
 
 ## 🌱 About Me  
-I'm a part-time software engineering student focused on backend development. I love solving real-world problems — such as building a commercial site for my mom’s business and protecting my church’s digital archive.
+I'm a software engineering student focused on backend development. I love solving real-world problems — such as building a commercial site for my mom’s business and protecting my church’s digital archive.
+
+
 
 ## 🛠️ Skills  
 - Python, Java, Bash (Under Development)
@@ -17,4 +19,4 @@ I learn best by doing — experimenting with code, asking questions, and reflect
 - **Church Archive Tool**: A secure system to protect digital records
 
 ## ✨ Fun Fact  
-I brand myself as “ElCanDo” — because I believe in grit, growth, and getting things done.
+I brand myself as “ElCanDo”(manining "He Can Do") — because I believe in grit, growth, and getting things done.
