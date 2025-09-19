@@ -8,7 +8,7 @@ I'm a software engineering student focused on backend development. I love solvin
 
 ## 🛠️ Skills  
 - Python, Java, Bash (Under Development)
-- Git/GitHub workflows (Under Development)
+- Git/GitHub workflows 
 - Strong documentation and version control practices (Under Development)
 
 ## 📚 Learning Journey  
