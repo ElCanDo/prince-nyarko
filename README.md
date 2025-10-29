@@ -21,12 +21,13 @@ I learn best by doing — experimenting with code, asking questions, and reflect
 ## ✨ Fun Fact  
 I brand myself as “ElCanDo”(manining "He Can Do") — because I believe in grit, growth, and getting things done.
 ## 🏅 My Achievements
-![My Badge](
-<img width="500" height="500" alt="Welcome Squad Badge" src="https://github.com/user-attachments/assets/a6166400-9ee4-4b91-945e-867bfbc8ab20" />
+![My Badge]
+
+( <img width="500" height="500" alt="Welcome Squad Badge" src="https://github.com/user-attachments/assets/a6166400-9ee4-4b91-945e-867bfbc8ab20" />
 <img width="500" height="500" alt="Catch-up Squad Badge" src="https://github.com/user-attachments/assets/a9311c64-59ee-4857-b4f6-3109a79bcb3d" />
-)
-[View Verifiocation Here] :(
-https://www.canva.com/design/DAGsxvbE70k/gBfM_CgIJ6b_dcTa_HleKQ/edit?utm_content=DAGsxvbE70k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-https://www.canva.com/design/DAGqum6kOZE/FIq1LPUGK52rPegffAZAIQ/edit?utm_content=DAGqum6kOZE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-)
+ )
+[View Verifiocation Here] :
+
+(https://www.canva.com/design/DAGsxvbE70k/gBfM_CgIJ6b_dcTa_HleKQ/edit?utm_content=DAGsxvbE70k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAGqum6kOZE/FIq1LPUGK52rPegffAZAIQ/edit?utm_content=DAGqum6kOZE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton )
 
