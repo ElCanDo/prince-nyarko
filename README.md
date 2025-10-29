@@ -31,6 +31,7 @@ I brand myself as “ElCanDo”(manining "He Can Do") — because I believe in g
  
 [View Verifiocation Here] :
 
-(https://www.canva.com/design/DAGsxvbE70k/gBfM_CgIJ6b_dcTa_HleKQ/edit?utm_content=DAGsxvbE70k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-https://www.canva.com/design/DAGqum6kOZE/FIq1LPUGK52rPegffAZAIQ/edit?utm_content=DAGqum6kOZE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton )
+https://www.canva.com/design/DAGsxvbE70k/gBfM_CgIJ6b_dcTa_HleKQ/edit?utm_content=DAGsxvbE70k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+https://www.canva.com/design/DAGqum6kOZE/FIq1LPUGK52rPegffAZAIQ/edit?utm_content=DAGqum6kOZE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
