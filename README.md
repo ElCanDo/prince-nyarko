@@ -6,7 +6,7 @@
 
 ## 🌱 About Me
 
-I am a software engineering graduate with a focus on backend development. I completed my backend program last month and continue to sharpen my skills by building practical solutions—such as a commercial platform for my mom’s business and tools to help protect my church’s digital archive.
+I am a software engineering graduate with a focus on backend development. I completed my backend program January 2026 and continue to sharpen my skills by building practical solutions—such as a commercial platform for my mom’s business and tools to help protect my church’s digital archive.
 
 ---
 
